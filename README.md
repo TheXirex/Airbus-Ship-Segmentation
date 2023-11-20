@@ -4,9 +4,9 @@ The main goal of this project is to build a semantic segmentation model for ship
 
 Also this project is a test assignment for getting an internship in the R&D center WINSTARS.AI.
 ## Technologies
-The created model for ship segmentation has Unet architecture (the code of which you can find in utils/unet.py file).
+The created model for ship segmentation has Unet architecture (the code of which you can find in [unet.py](utils/losses.py) file).
 
-To train the model I used Focalloss loss function and dice_score binary similarity method (code for the methods can be found in utils/losses.py).
+To train the model I used Focalloss loss function and dice_score binary similarity method (code for the methods can be found in [losses.py](utils/losses.py).
 
 ## EDA
 Analysis of the dataset and model metrics can be found behind the files: [eda.ipynb](eda.ipynb) and [model_metrics](model_metrics)
