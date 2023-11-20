@@ -39,3 +39,10 @@ pip install -r requirements.txt
 A trained model for semantic segmentation of ships in satellite images.
 
 The model does a good job of segmenting explicit ships in images, but sometimes gets confused with shore/land areas in images.
+
+Example images:
+![photo_2023-11-20_15-02-38](https://github.com/TheXirex/Airbus-Ship-Segmentation/assets/104722568/8f80bd2a-c5bf-4c6a-a760-e30ad4587c6a)
+![изображение](https://github.com/TheXirex/Airbus-Ship-Segmentation/assets/104722568/f119072a-8d0b-444f-9560-610d3bdcb217)
+![изображение](https://github.com/TheXirex/Airbus-Ship-Segmentation/assets/104722568/a15e4377-9d11-4671-92a3-58de5dddd929)
+
+
