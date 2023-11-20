@@ -9,7 +9,7 @@ The created model for ship segmentation has Unet architecture (the code of which
 To train the model I used Focalloss loss function and dice_score binary similarity method (code for the methods can be found in [losses.py](utils/losses.py)).
 
 ## EDA
-Analysis of the dataset and model metrics can be found behind the files: [eda.ipynb](eda.ipynb) and [model_metrics](model_metrics)
+Analysis of the dataset and model metrics can be found behind the files: [eda.ipynb](eda.ipynb) and [model_metrics](model_metrics).
 ## Installation
 1. The Python version for this project is **3.11.5**.
 2. Select the directory where the project is to be loaded.
