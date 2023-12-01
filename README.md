@@ -2,7 +2,6 @@
 ## Main Goal
 The main goal of this project is to build a semantic segmentation model for ship detection in satellite images.
 
-Also this project is a test assignment for getting an internship in the R&D center WINSTARS.AI.
 ## Technologies
 The created model for ship segmentation has Unet architecture (the code of which you can find in [unet.py](utils/losses.py) file).
 
